@@ -231,6 +231,7 @@ app/src/main/java/com/example/aiinterviewer/
 ## 👨‍💻 Author
 
 **Durgesh Mahajan**, **Ayush Unhale** and **Somesh Singh**
+
 B.Tech, Information Technology · Bharati Vidyapeeth (Deemed to be University) College of Engineering, Pune
 Built as part of the *Mobile Application Development* course.
 
